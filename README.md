@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on my personal development<br>🤝 I am looking for a company to start my working life<br>🌱 I’m currently learning DAM<br>💬 Ask me about my CV<br>⚡ I knew I would work in development and programming since I was little
+🔭 I am currently working on my personal development<br>🤝 I am looking for a company to start my working life<br>🌱 I’m currently studying a Specialization Course in Artificial Intelligence and Big Data<br>💬 Ask me about my CV<br>⚡ I knew I would work in development and programming since I was little
 
 
 ## 🌐 Socials:
